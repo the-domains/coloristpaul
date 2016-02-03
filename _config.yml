@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3039328
+  lightness: 0.3916701
+  brandStrength: 0.5559602
+  rhythmicContrast: 0.9222396
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.2118686
+name: ColoristPaul
