@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ColoristPaul]]></title>
         <description><![CDATA[ColoristPaul]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coloristpaul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 02:21:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 30 Aug 2016 22:52:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coloristpaul/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I can finally share these beautiful images!]]></title>
+            <description><![CDATA[<article><h1>I can finally share these beautiful images!</h1><p>Sir Edmund Hillary Drama series coloured by: Paul Lear (coloristpaul) www.paullear.tv</p></article>]]></description>
+            <link>https://vimeo.com/177944528?ref=em-share</link>
+            <guid isPermaLink="false">8e204823-c8de-4a96-b1be-cc962c480675</guid>
+            <pubDate>Tue, 30 Aug 2016 22:52:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Poi e Colour Slice]]></title>
             <description><![CDATA[<article><h1>Poi e Colour Slice</h1><p>Color slices for the 2016 feature film ‘Poi e’</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3a3c582fd4103774b778391fd6eac3dc/croprotate.jpg?cropheight=500&cropwidth=998&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd8fe8449-b7f8-4f43-827e-f6792b2b3747.jpg&x=1&y=0"></article>]]></description>
